@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Flask",
+    "description": "This Flask displays the temperature of the water in it This Flask displays the temperature of the water in it",
+    "price": 100,
+    "quantity": 183,
+    "imageName": "temp-flask"
+  },
+  {
+    "id": 2,
+    "name": "Yoga Mat",
+    "description": "This is a Yoga Mat",
+    "price": 200,
+    "quantity": 87,
+    "imageName": "yoga-mat"
+  },
+  {
+    "id": 3,
+    "name": "Watch",
+    "description": "This is a watch comes with an analog display",
+    "price": 100,
+    "quantity": 90,
+    "imageName": "watch"
+  },
+  {
+    "id": 4,
+    "name": "Bat",
+    "description": "This is a Cricket Bat",
+    "price": 500,
+    "quantity": 69,
+    "imageName": "bat"
+  },
+  {
+    "id": 5,
+    "name": "Bag",
+    "description": "This is an American Tourister bag",
+    "price": 10,
+    "quantity": 146,
+    "imageName": "college-bag"
+  },
+  {
+    "id": 6,
+    "name": "Copper Cup",
+    "description": "This is a Copper cup",
+    "price": 80,
+    "quantity": 18,
+    "imageName": "copper-cup"
+  },
+  {
+    "id": 7,
+    "name": "Digital Watch",
+    "description": "This is a Noise Digital Watch!",
+    "price": 800,
+    "quantity": 30,
+    "imageName": "digital-watch"
+  },
+  {
+    "id": 8,
+    "name": "Sport Shoe",
+    "description": "This is a sports shoe",
+    "price": 600,
+    "quantity": 40,
+    "imageName": "gray-shoe"
+  },
+  {
+    "id": 9,
+    "name": "Hand Bag",
+    "description": "This is a Hand Bag!",
+    "price": 400,
+    "quantity": 120,
+    "imageName": "hand-bag"
+  },
+  {
+    "id": 10,
+    "name": "Winter Cap",
+    "description": "This is a winter cap",
+    "price": 150,
+    "quantity": 160,
+    "imageName": "winter-cap"
+  },
+  {
+    "id": 11,
+    "name": "Neck Pillow",
+    "description": "This is a Neck Pillow",
+    "price": 50,
+    "quantity": 60,
+    "imageName": "neck-pillow"
+  }
+]
